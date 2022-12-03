@@ -12,3 +12,20 @@ La programación orientada a objetos fue clave para la realización de este proy
 Mockup 
 
 ![interfaz3](https://user-images.githubusercontent.com/102609948/205442198-3cf4c181-a114-41d9-83df-9570630a0156.jpg)
+
+Construcción 
+
+
+•	Se podrá ver de mejor manera y mucho mas organizada por un repositorio en GitHub
+-	 https://github.com/AndersonFonseca1704/ProyectoFinalPOO.git
+-	https://github.com/Maria2214220/Proyecto-Poo/tree/main/MVC-Recetas%20Uis/src
+
+
+
+
+
+
+Referencias
+
+https://devseo.xyz/programacion-orientada-a-objetos/
+https://devseo.xyz/programacion-orientada-a-objetos/https://especializacionjava.com/2017/01/29/programacion-orientada-a-objetos/
